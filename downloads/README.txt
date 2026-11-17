@@ -1,0 +1,1 @@
+Place the real Windows installer here as FynderSetup.exe, then set available to true in ../release.json. Do not enable the download before the file exists. Large installers should use GitHub Releases: set the release.json URL to the actual GitHub release asset URL instead.
